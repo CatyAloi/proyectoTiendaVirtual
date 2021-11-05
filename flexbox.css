@@ -1,0 +1,23 @@
+.contenedor{
+    background:chocolate;
+    width: 80%;
+    height: 500px;
+    display: flex;
+    flex-wrap: nowrap;
+    
+    
+   
+  
+}
+
+.hijo{
+    background: rgb(23, 235, 15);
+    width: 200px;
+    height:100px;
+    color: crimson;
+    margin: 30px;
+    font-size: 40px;
+    text-align: center;
+    
+   
+    }
